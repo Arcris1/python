@@ -1,0 +1,1 @@
+You have not selected a shared directory. This is a temporary directory that can be deleted at any time. You can access these files on the host at ~/Documents/Public relative to UTM's sandbox (if enabled). To select a permanent shared directory, shut down the VM and select a shared directory from the VM details screen.
